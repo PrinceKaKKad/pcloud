@@ -1,8 +1,7 @@
 <div align="left" style="position: relative;">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>PCLOUD</h1>
 <p align="left">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ Welcome to PCloud, where the future of IoT device management is here. We provide a seamless and innovative platform designed for those who want to simplify and enhance their IoT ecosystem.</code></em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/license/PrinceKaKKad/pcloud?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -38,15 +37,11 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Simplified Device Management
+Our website offers users the ability to create custom templates, each generating a unique token. This token acts as a secure bridge for communication between your application dashboard and hardware devices. With this, you can manage switches, monitor various data metrics through intuitive gadgets, and ensure all your devices are synchronized effortlessly.</code>
 
 ---
 
-##  Features
-
-<code>❯ REPLACE-ME</code>
-
----
 
 ##  Project Structure
 
