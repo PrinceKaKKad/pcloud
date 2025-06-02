@@ -142,152 +142,97 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/verification.php'>verification.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Vefity User OTP</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/support.php'>support.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Live Support</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/create_project.php'>create_project.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Create Project</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/messages.php'>messages.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Messages</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/send.php'>send.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Send Messages</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/forget.php'>forget.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Forget Password</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/projects.php'>projects.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Projects</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/delete_switch.php'>delete_switch.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Remove Component</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/workspace.php'>workspace.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Work Space</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/notifications.php'>notifications.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Notifications</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/index.php'>index.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Home</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/register.php'>register.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Register User</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/team.php'>team.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Team</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/mail.php'>mail.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Mail Sender</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/login.php'>login.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Login Page</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/view_ticket.php'>view_ticket.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ View Support ticket</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/logout.php'>logout.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Logout</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/settings.php'>settings.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ User Settings</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/manage_projects.php'>manage_projects.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Manage Projects</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/expenses.php'>expenses.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Expenses</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/reports.php'>reports.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Report</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/accept_template.php'>accept_template.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Accept Template</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/delete_projects.php'>delete_projects.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Remove Project</code></td>
 			</tr>
 			</table>
-		</blockquote>
-	</details>
-	<details> <!-- phpmailer Submodule -->
-		<summary><b>phpmailer</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/phpmailer/PHPMailer.php'>PHPMailer.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/phpmailer/autoload.php'>autoload.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/phpmailer/OAuth.php'>OAuth.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/phpmailer/SMTP.php'>SMTP.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/phpmailer/Exception.php'>Exception.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/phpmailer/POP3.php'>POP3.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/phpmailer/OAuthTokenProvider.php'>OAuthTokenProvider.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/phpmailer/DSNConfigurator.php'>DSNConfigurator.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- .github Submodule -->
-		<summary><b>.github</b></summary>
-		<blockquote>
-			<details>
-				<summary><b>workflows</b></summary>
-				<blockquote>
-					<table>
-					<tr>
-						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/.github/workflows/laravel.yml'>laravel.yml</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
-					</tr>
-					</table>
-				</blockquote>
-			</details>
 		</blockquote>
 	</details>
 	<details> <!-- templates Submodule -->
@@ -296,26 +241,7 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/templates/switch.php'>switch.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- meter Submodule -->
-		<summary><b>meter</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/meter/style.css'>style.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/meter/script.js'>script.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/meter/index.html'>index.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Switch Template</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -326,31 +252,23 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/put.php'>put.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Public Put API</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/ishardwareconnected.php'>ishardwareconnected.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/conn.php'>conn.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Public Hardware Status Check API</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/template_put.php'>template_put.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Template Create API</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/index.php'>index.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/README.txt'>README.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ HOME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/get.php'>get.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Public Get API</code></td>
 			</tr>
 			</table>
 			<details>
@@ -359,15 +277,15 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/v2/put.php'>put.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Public Put API</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/v2/ishardwareconnected.php'>ishardwareconnected.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Public Hardware Status Check</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/v2/get.php'>get.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Public Get API</code></td>
 					</tr>
 					</table>
 					<details>
@@ -376,23 +294,23 @@
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/v2/internal/put.php'>put.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Put API</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/v2/internal/toggleall.php'>toggleall.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Toggle all Switch</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/v2/internal/togglesec.php'>togglesec.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Toggle Switch For 1 Second</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/v2/internal/toggle.php'>toggle.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Toggle 1 Switch</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/v2/internal/get.php'>get.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Get API</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -405,23 +323,23 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/put.php'>put.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Privet Put API</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/toggleall.php'>toggleall.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Privet Toggle ALL API</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/togglesec.php'>togglesec.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Privet Toggle 1 Switch 1 Second API</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/toggle.php'>toggle.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Privet Toggle 1 Switch API</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/get.php'>get.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Privet Get API</code></td>
 					</tr>
 					</table>
 					<details>
@@ -430,19 +348,19 @@
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/v1/register.php'>register.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Register API</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/v1/template.php'>template.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Create Template API</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/v1/login.php'>login.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Login API</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/api/internal/v1/shared.php'>shared.php</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><code>❯ Privet Template Share API</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -457,23 +375,23 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/includes/nav.php'>nav.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Nav BAr</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/includes/conn.php'>conn.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Connection File</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/includes/header.php'>header.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Header</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/includes/fetch_messages.php'>fetch_messages.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Fetch Messages</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/includes/footer.php'>footer.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Footer</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -484,55 +402,55 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/user.php'>user.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Users Page</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/manage_user.php'>manage_user.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Manage Users</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/support.php'>support.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Support page</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/index.php'>index.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Home</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/sitemap.php'>sitemap.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Sitemap</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/template.php'>template.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Templates</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/login.php'>login.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Login</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/view_ticket.php'>view_ticket.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ View Support tickets</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/logout.php'>logout.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Logout</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/log.php'>log.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Log</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/settings.php'>settings.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Settings</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/delete_user.php'>delete_user.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Remove Users</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/graph.php'>graph.php</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Graphs</code></td>
 			</tr>
 			</table>
 			<details>
@@ -541,23 +459,23 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/includes/nav.php'>nav.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Nav Bar</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/includes/conn.php'>conn.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Connection</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/includes/header.php'>header.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Header</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/includes/fetch_messages.php'>fetch_messages.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Messages</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/PrinceKaKKad/pcloud/blob/master/admin/includes/footer.php'>footer.php</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ Footer</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -592,28 +510,6 @@ Install pcloud using one of the following methods:
 ❯ cd pcloud
 ```
 
-3. Install the project dependencies:
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-
-
-###  Usage
-Run pcloud using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
 
 ##  Contributing
 
@@ -655,17 +551,3 @@ echo 'INSERT-TEST-COMMAND-HERE'
    </a>
 </p>
 </details>
-
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
