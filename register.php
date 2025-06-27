@@ -77,8 +77,8 @@ function sendVerificationEmail($recipientEmail, $username, $verificationLink)
     $mail->Port = 587;
     $mail->SMTPAuth = true;
     $mail->SMTPSecure = 'tls';
-    $mail->Username = "info@codeestro.com"; // Update with your SMTP username
-    $mail->Password = "Cfjx@136"; // Update with your SMTP password
+    $mail->Username = "email"; // Update with your SMTP username
+    $mail->Password = "password"; // Update with your SMTP password
 
     // Recipient and sender
     $mail->setFrom("info@codeestro.com", "pCloud");
