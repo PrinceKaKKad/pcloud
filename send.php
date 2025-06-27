@@ -40,8 +40,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $mail->Port = 587;
             $mail->SMTPAuth = true;
             $mail->SMTPSecure = 'tls';
-            $mail->Username = "info@codeestro.com"; // Update with your SMTP username
-            $mail->Password = "Cfjx@136"; // Update with your SMTP password
+            $mail->Username = "email"; // Update with your SMTP username
+            $mail->Password = "password"; // Update with your SMTP password
 
             // Sender and recipient
             $mail->setFrom("info@codeestro.com", "pCloud"); // Update with the sender email and name
