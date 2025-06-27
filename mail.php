@@ -17,8 +17,8 @@ $messageSent = false;
 // Your email credentials
 $smtp_host = "smtp.hostinger.com";
 $smtp_port = 587;
-$smtp_username = "info@codeestro.com";
-$smtp_password = "Cfjx@136";
+$smtp_username = "email";
+$smtp_password = "password";
 
 // Recipient email address
 $recipient_email = "princekakkad10@gmail.com";
